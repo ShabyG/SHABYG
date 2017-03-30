@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHABY\.android\build-cache\6d22f651bc83d748ad5d8f35d411e74c41a51d31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\pre-dexed\debug\classes_ce7c50bf0a79c5b15c578d80792a238f235eaa02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHABY\.android\build-cache\5560d5f383ed050dfe6b651389b2bbe703573727\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\pre-dexed\debug\classes_de463cd6570d77890632e316c87b043c8331136a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHABY\.android\build-cache\2c8ba9a4736eb513003c5cae028286892199ebcc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\pre-dexed\debug\classes_4a5ac01f9800f464b744e62189f69e4d737fff12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHABY\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_7e0b3bf343eb264f9792ab261ed4174ac5e992b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHABY\.android\build-cache\67d5ccd134f2e572eab260fe6464115518c880a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\pre-dexed\debug\classes_5b1b8d26d27f8535f7855fd3fd5b80c006751209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHABY\.android\build-cache\1999b90051ca00ada49200162c03702ef2d1a488\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\pre-dexed\debug\classes_3da1c701739021dc4452612ad450cd420e88e033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHABY\.android\build-cache\8dfe3f7192df0465b5e4c855701b07073dcffadc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\pre-dexed\debug\classes_309b1a6a9136dc07438d0ffbe10f4220073e0a5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHABY\.android\build-cache\95e070d41303102ce9419b4658387287c7c50f8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\pre-dexed\debug\classes_29929a48df9bf9bd69e21f184e709903125e3f1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHABY\.android\build-cache\d9961b2665aa6c81cb5d377488210ccef2196c18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\pre-dexed\debug\classes_d019abef4342a23a62ab80523f78a9525f76642f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHABY\.android\build-cache\0139045f1e96e3af21c7ca6a940d0b4a97a742e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\pre-dexed\debug\classes_e24e0bf40c3fe78cd2fe29e1157ee9ef04ae745c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHABY\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_aed7eb75022477d41f19667edf05e0f790071bf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SHABY\.android\build-cache\6ab64ea3778b6931d1c404b5c027abb1d55b4702\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\pre-dexed\debug\classes_82d4fc5b6127c3d13458a7c993832e4079b6cb18.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_da4c8eb95c0d5d7ebfbd0290240c183dccca77e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40b5a83530e09756dbe29e7c779104bbb8f1033e">
+        <dex dex="C:\Users\SHABY\AndroidStudioProjects\Practicaone\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_350117b64ce433114c17b6a68ac296cbe1148755\classes.dex" />
+    </item>
+
+</items>
